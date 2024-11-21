@@ -66,13 +66,17 @@ while True:
 ---
 
 # Penjelasan:
-Inisialisasi: Program memulai dengan dictionary kosong (data_dict = {}).
-Fungsi Menu: Fungsi print_menu() menampilkan daftar opsi yang sesuai dengan flowchart.
-Operasi CRUD:
+1. Inisialisasi: Program memulai dengan dictionary kosong (data_dict = {}).
+
+2. Fungsi Menu: Fungsi print_menu() menampilkan daftar opsi yang sesuai dengan flowchart.
+
+3. Operasi CRUD:
 Lihat Data: Menampilkan isi dictionary.
 Tambah Data: Menambahkan entri baru ke dictionary dengan NIM sebagai kunci.
 Ubah Data: Mengganti nilai berdasarkan kunci tertentu.
 Hapus Data: Menghapus entri berdasarkan NIM.
 Cari Data: Mencari dan menampilkan data berdasarkan kunci.
-Pengulangan: Program terus berjalan dalam loop hingga pengguna memilih untuk keluar (keluar).
+
+
+4. Pengulangan: Program terus berjalan dalam loop hingga pengguna memilih untuk keluar (keluar).
         
