@@ -72,10 +72,15 @@ while True:
 
 3. Operasi CRUD:
 Lihat Data: Menampilkan isi dictionary.
+
 Tambah Data: Menambahkan entri baru ke dictionary dengan NIM sebagai kunci.
+
 Ubah Data: Mengganti nilai berdasarkan kunci tertentu.
+
 Hapus Data: Menghapus entri berdasarkan NIM.
+
 Cari Data: Mencari dan menampilkan data berdasarkan kunci.
+
 
 
 4. Pengulangan: Program terus berjalan dalam loop hingga pengguna memilih untuk keluar (keluar).
