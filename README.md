@@ -71,6 +71,7 @@ while True:
 2. Fungsi Menu: Fungsi print_menu() menampilkan daftar opsi yang sesuai dengan flowchart.
 
 3. Operasi CRUD:
+   
 Lihat Data: Menampilkan isi dictionary.
 
 Tambah Data: Menambahkan entri baru ke dictionary dengan NIM sebagai kunci.
