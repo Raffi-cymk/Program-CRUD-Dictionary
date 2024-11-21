@@ -1,10 +1,11 @@
 # Program-CRUD-Dictionary
 # Inisialisasi dictionary
-data_dict = {}
+
 
 ![](<Program CRUD.jpeg>)
 
 
+data_dict = {}
 def print_menu():
     print("\nMenu Pilihan:")
     print("1. Lihat Data")
